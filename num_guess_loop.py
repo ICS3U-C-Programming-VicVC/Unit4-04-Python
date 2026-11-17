@@ -3,9 +3,8 @@
 # Date: 11/17/26
 # This program tells the user to guess a random number, using a while loop.
 
-
-import constants
 import random
+import constants
 
 
 def main():
